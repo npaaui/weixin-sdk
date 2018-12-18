@@ -1,5 +1,5 @@
 {
-    "name": "npaaui/weixin-sdk-php",
+    "name": "npaaui/WeChat-sdk-php",
     "description": "微信公众平台开发包-php版",
     "keywords": [
         "wechat",
@@ -8,8 +8,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php":">=5.3",
-        "ext-mcrypt": "*"
+        "php":">=5.3"
     },
     "authors": [
         {
