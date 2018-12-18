@@ -1,0 +1,21 @@
+{
+    "name": "npaaui/weixin-sdk-php",
+    "description": "微信公众平台开发包-php版",
+    "keywords": [
+        "wechat",
+        "weixin",
+        "weixin-sdk-php"
+    ],
+    "license": "MIT",
+    "require": {
+        "php":">=5.3",
+        "ext-mcrypt": "*"
+    },
+    "authors": [
+        {
+            "name": "npaaui",
+            "email": "1059015328@qq.com"
+        }
+    ],
+    "minimum-stability" : "dev"
+}
