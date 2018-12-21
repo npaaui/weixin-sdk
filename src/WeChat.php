@@ -11,6 +11,8 @@ namespace Npaaui\WeChat;
 
 class WeChat
 {
+    private $TEST = "test";
+
     public static function index()
     {
         return "this is weChat index";
