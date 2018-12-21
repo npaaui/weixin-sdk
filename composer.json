@@ -16,5 +16,10 @@
             "email": "1059015328@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Npaaui\\WeChat\\": "src"
+        }
+    },
     "minimum-stability" : "dev"
 }
