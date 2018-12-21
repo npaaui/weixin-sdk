@@ -6,11 +6,16 @@
  * Time: 17:42
  */
 
-namespace WeChat;
+namespace Npaaui\WeChat;
 
 
 class WeChat
 {
+    public static function index()
+    {
+        return "this is weChat index";
+    }
+
     public function access()
     {
         //获得参数 signature nonce token timestamp echostr
